@@ -1,0 +1,10 @@
+p1 = str(input())
+gpa1 = int(input())
+p2 = str(input())
+gpa2 = int(input())
+p3 = str(input())
+gpa3 = int(input())
+p4 = str(input())
+gpa4 = int(input())
+agpa = (gpa1 + gpa2 + gpa3 + gpa4) / 4
+print(p1, p2, p3, p4, agpa)
